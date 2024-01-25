@@ -21,7 +21,7 @@ public class Main {
     }
 
     public static void ukol5() {
-        double cena = 0;
+        double cena;
 
           // Nastavíme do proměnné hodnotu 0
         // Desetkrát přičteme hodnotu jedna desetina (0,1):
